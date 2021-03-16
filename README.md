@@ -1,2 +1,2 @@
-Projeto: recriar pagina inicial do Instagram :photo
+Projeto: recriar pagina inicial do Instagram 
 
